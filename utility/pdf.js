@@ -17,7 +17,7 @@ const ishla = async (arr, imgLink, id) => {
       ...arr,
     ],
     defaultStyle: {
-      fontSize: 8,
+      fontSize: 12,
     },
   };
   const time = new Date().getTime();

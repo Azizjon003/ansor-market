@@ -3,7 +3,7 @@ const path = require("path");
 
 const HOME_KEYBOARD = {
   keyboard: [
-    [{ text: "«Ansor» savdo markazidagi bo'sh ish o'rinlar" }],
+    [{ text: "«Ansor» supermarketidagi bo'sh ish o'rinlar" }],
     [
       {
         text: "Biz haqimizda 💠",
@@ -56,7 +56,7 @@ exports.category = category;
 
 const adminKeyboard = {
   keyboard: [
-    [{ text: "«Ansor» savdo markazidagi bo'sh ish o'rinlar" }],
+    [{ text: "«Ansor» supermaketidagi bo'sh ish o'rinlar" }],
     [
       {
         text: "Biz haqimizda 💠",

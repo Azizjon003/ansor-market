@@ -35,7 +35,7 @@ bot.command("start", async (ctx) => {
     );
   }
   const text =
-    `Assalomu alaykum ${username}!\n <b>🤗 Sizni «Ansor» savdo markaziga ishga taklif qilamiz!</b>` +
+    `Assalomu alaykum ${username}!\n <b>🤗 Sizni «Ansor» supermarketiga ishga taklif qilamiz!</b>` +
     "\n\n<b>📲Onlayn tarzda anketani to'ldiring, suhbatdan o'ting va safimizga qo'shiling!</b>" +
     "\n\n" +
     "<b> 🔘Qulayliklar</b>\n\n▫️Qadriyatli va tajribali jamoa;" +
